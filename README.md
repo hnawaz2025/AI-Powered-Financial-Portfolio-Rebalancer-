@@ -1,4 +1,5 @@
 Overview
+
 This project implements an AI-powered financial portfolio rebalancer using the LangChain framework and multiple large language models (LLMs), including Groq LLaMA3-70B, Groq LLaMA3-8B, and OpenAI GPT-4. The system analyzes stock portfolios, evaluates market trends, and provides actionable recommendations for rebalancing based on real-time data.
 
 Features
